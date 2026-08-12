@@ -23,8 +23,8 @@ Estudante de Análise e Desenvolvimento de Sistemas no IFSP.
 ## Estatísticas
 
 <p>
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=MatheusHenriqueLira&rank_icon=github&show_icons=true&include_all_commits=true&theme=dracula"/>
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=MatheusLiraSantos&layout=compact&langs_count=4&theme=dracula"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=MatheusHenriqueLira&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical"/><br>
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=MatheusHenriqueLira&langs_count=4&theme=radical"/>
 </p>
 
 ## Contato
